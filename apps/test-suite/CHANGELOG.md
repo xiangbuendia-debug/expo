@@ -1,5 +1,15 @@
 # test-suite
 
+## 1.0.14
+
+### Patch Changes
+
+- Updated dependencies. ([#52178](https://github.com/expo/expo/pull/52178), [#52179](https://github.com/expo/expo/pull/52179), [#52137](https://github.com/expo/expo/pull/52137), [#52200](https://github.com/expo/expo/pull/52200), [#52190](https://github.com/expo/expo/pull/52190), [#52189](https://github.com/expo/expo/pull/52189), [#52112](https://github.com/expo/expo/pull/52112), [#52186](https://github.com/expo/expo/pull/52186))
+  - expo-modules-core@58.0.27
+  - @expo/ui@58.0.24
+  - expo@58.0.20
+  - expo-router@58.0.27
+
 ## 1.0.13
 
 ### Patch Changes

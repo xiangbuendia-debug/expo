@@ -1,5 +1,12 @@
 # Changelog
 
+## 58.0.20
+
+### Patch Changes
+
+- [iOS] Reduce the overhead of converting small `Data` values to JavaScript. ([#52164](https://github.com/expo/expo/pull/52164) by [@tsapeta](https://github.com/tsapeta))
+- [Internal] Add `JavaScriptRuntime.withUnsafePointees(object:value:_:)` as `@_spi(Internal)`. It gives raw pointers to the runtime, an object and a value in one call that isn't generic, for `expo-modules-core` to emit events. ([#52178](https://github.com/expo/expo/pull/52178) by [@tsapeta](https://github.com/tsapeta))
+
 ## 58.0.19
 
 ### Patch Changes
